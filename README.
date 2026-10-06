@@ -1,1 +1,56 @@
 
+🎯 AI Career Guidance Assistant
+
+An AI-powered career guidance application that helps users find suitable career options based on their interests and skills.
+
+🚀 Features
+
+- Search careers based on interests and skills
+- Provides relevant career recommendations
+- Simple and interactive Streamlit interface
+- Uses a structured career dataset
+
+🛠️ Technologies Used
+
+- Python
+- Streamlit
+- Pandas
+- CSV Dataset
+
+📂 Project Structure
+
+AI-Career-Guidance/
+│
+├── app.py
+├── data/
+│   └── careers.csv
+├── requirements.txt
+└── README.md
+
+▶️ How to Run
+
+Install the required libraries:
+
+pip install -r requirements.txt
+
+Run the Streamlit application:
+
+streamlit run app.py
+
+💡 How It Works
+
+1. Enter your interest or skill.
+2. The application searches the career dataset.
+3. Matching career options are displayed.
+4. Users can explore suitable career choices based on their input.
+
+🔮 Future Enhancements
+
+- AI/LLM-based personalized recommendations
+- Aptitude and personality-based career suggestions
+- Career roadmap generation
+- Salary and job-market information
+
+👩‍💻 Author
+
+Bollu Siri Chandhanha
